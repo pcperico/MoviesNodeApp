@@ -1,0 +1,22 @@
+{
+  "name": "moviesnodeapp",
+  "version": "1.0.0",
+  "description": "node app backend for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcperico/MoviesNodeApp.git"
+  },
+  "author": "Arturo Salinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcperico/MoviesNodeApp/issues"
+  },
+  "homepage": "https://github.com/pcperico/MoviesNodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
